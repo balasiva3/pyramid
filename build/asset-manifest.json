@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pyramid/static/css/main.16d5e14f.chunk.css",
+    "main.js": "/pyramid/static/js/main.fa2ab3d5.chunk.js",
+    "main.js.map": "/pyramid/static/js/main.fa2ab3d5.chunk.js.map",
+    "runtime-main.js": "/pyramid/static/js/runtime-main.24da4f12.js",
+    "runtime-main.js.map": "/pyramid/static/js/runtime-main.24da4f12.js.map",
+    "static/css/2.d6dc494e.chunk.css": "/pyramid/static/css/2.d6dc494e.chunk.css",
+    "static/js/2.4ef55876.chunk.js": "/pyramid/static/js/2.4ef55876.chunk.js",
+    "static/js/2.4ef55876.chunk.js.map": "/pyramid/static/js/2.4ef55876.chunk.js.map",
+    "static/js/3.b5e94f82.chunk.js": "/pyramid/static/js/3.b5e94f82.chunk.js",
+    "static/js/3.b5e94f82.chunk.js.map": "/pyramid/static/js/3.b5e94f82.chunk.js.map",
+    "index.html": "/pyramid/index.html",
+    "static/css/2.d6dc494e.chunk.css.map": "/pyramid/static/css/2.d6dc494e.chunk.css.map",
+    "static/css/main.16d5e14f.chunk.css.map": "/pyramid/static/css/main.16d5e14f.chunk.css.map",
+    "static/js/2.4ef55876.chunk.js.LICENSE.txt": "/pyramid/static/js/2.4ef55876.chunk.js.LICENSE.txt",
+    "static/media/no-data.e2cb97bb.png": "/pyramid/static/media/no-data.e2cb97bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24da4f12.js",
+    "static/css/2.d6dc494e.chunk.css",
+    "static/js/2.4ef55876.chunk.js",
+    "static/css/main.16d5e14f.chunk.css",
+    "static/js/main.fa2ab3d5.chunk.js"
+  ]
+}
